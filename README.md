@@ -1,7 +1,7 @@
 # who are you
 my name is **somefan** or **fan**.
 
-i'm into computer science. coding, software development, implementing, and whatnot.
+i'm into computer science, coding, software development, implementing, and whatnot.
 
 # how are you
 as of **February 12, 2025 11:39:13 AM**, i'm doing great.
