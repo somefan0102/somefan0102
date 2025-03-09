@@ -1,10 +1,12 @@
 # who are you
+
 my name is **somefan** or **fan**.
 
-i'm into computer science, coding, software development, implementations, and whatnot.
+i'm into computer science, programming, software development, and whatnot.
 
 # how are you
-as of **February 12, 2025 01:59:01 PM**, i'm doing great.
+
+i'm doing good.
 
 however, i'm currently wanting to learn more about:
 * git
@@ -13,7 +15,5 @@ however, i'm currently wanting to learn more about:
 * computational models
 
 # where are you
-for stuff related to coding, you can check out my [website](https://somefan0102.neocities.org) and _maybe_ my [bluesky](https://bsky.app/profile/somefan0102.bsky.social).
 
-# fun fact
-one less than nothing is everything, always.
+for stuff related to coding, you can check out my [website](https://somefan0102.neocities.org) and *maybe* my [bluesky](https://bsky.app/profile/somefan0102.bsky.social).
