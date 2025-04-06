@@ -9,10 +9,12 @@ i'm into computer science, programming, software development, and whatnot.
 i'm doing good.
 
 however, i'm currently wanting to learn more about:
+
 * git
 * javascript
 * c
 * computational models
+* linux stuff & bash
 
 # where are you
 
