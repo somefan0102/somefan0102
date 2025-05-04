@@ -18,4 +18,4 @@ however, i'm currently wanting to learn more about:
 
 # where are you
 
-for stuff related to coding, you can check out my [website](https://somefan0102.neocities.org) and *maybe* my [bluesky](https://bsky.app/profile/somefan0102.bsky.social).
+for stuff related to coding, you can check out my [website](https://somefan0102.neocities.org) and *maybe* my [bluesky](https://bsky.app/profile/somefan0102.neocities.org).
