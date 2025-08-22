@@ -10,10 +10,8 @@ i'm doing good.
 
 however, i'm currently wanting to learn more about:
 
-* git
 * javascript
-* c
-* computational models
+* dsa
 * linux stuff & bash
 
 # where are you
