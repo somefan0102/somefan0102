@@ -12,7 +12,9 @@ however, i'm currently wanting to learn more about:
 
 * javascript
 * dsa
-* linux stuff & bash
+* theoretical cs
+* pl theory
+* linux/unix stuff & bash
 
 # where are you
 
